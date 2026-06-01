@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://banner.png" width="100%">
+  <img src="./banner.png" width="100%" alt="Banner">
 </p>
 
 # Hi 👋, ich bin Jasmin
