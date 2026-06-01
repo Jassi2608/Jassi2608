@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://banner.png" width="100%">
+</p>
+
 # Hi 👋, ich bin Jasmin
 
 🐧 Linux-Enthusiast  
