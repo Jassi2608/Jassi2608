@@ -33,9 +33,3 @@
 🌐 Webseiten und Web-Apps
 
 ⚙️ Linux- und Bash-Skripte
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jassi2608&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassi2608&layout=compact)
